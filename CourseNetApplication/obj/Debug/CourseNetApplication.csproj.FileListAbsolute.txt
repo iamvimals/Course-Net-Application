@@ -1,0 +1,10 @@
+C:\Users\vileg\source\repos\CourseNetApplication\CourseNetApplication\bin\Debug\CourseNetApplication.exe.config
+C:\Users\vileg\source\repos\CourseNetApplication\CourseNetApplication\bin\Debug\CourseNetApplication.exe
+C:\Users\vileg\source\repos\CourseNetApplication\CourseNetApplication\bin\Debug\CourseNetApplication.pdb
+C:\Users\vileg\source\repos\CourseNetApplication\CourseNetApplication\obj\Debug\CourseNetApplication.csprojAssemblyReference.cache
+C:\Users\vileg\source\repos\CourseNetApplication\CourseNetApplication\obj\Debug\CourseNetApplication.Properties.Resources.resources
+C:\Users\vileg\source\repos\CourseNetApplication\CourseNetApplication\obj\Debug\CourseNetApplication.csproj.GenerateResource.cache
+C:\Users\vileg\source\repos\CourseNetApplication\CourseNetApplication\obj\Debug\CourseNetApplication.csproj.CoreCompileInputs.cache
+C:\Users\vileg\source\repos\CourseNetApplication\CourseNetApplication\obj\Debug\CourseNetApplication.exe
+C:\Users\vileg\source\repos\CourseNetApplication\CourseNetApplication\obj\Debug\CourseNetApplication.pdb
+C:\Users\vileg\source\repos\CourseNetApplication\CourseNetApplication\obj\Debug\CourseNetApplication.courseNetApplicationForm.resources
